@@ -1,0 +1,29 @@
+@charset "utf-8";
+*{
+	margin: 0;
+	padding: 0;
+}
+#head_wrap{
+	width: 1370px;
+	height: 35px;
+	background: #ffffff;
+}
+.head_left{
+	width: 670px;
+	height: 35px;
+	float: left;
+	}
+.head_right{
+	width:700px;
+	height: 35px;
+	float: right;
+}
+a,span{
+	line-height: 35px;
+	margin: 0 10px 0 10px;
+	font-size: 12px;
+}
+.head_right a{
+	float:right;
+	padding: 0 20px 0 10px;
+}
